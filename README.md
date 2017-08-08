@@ -1,3 +1,3 @@
 # html-test
 
-Testing and learning HTML.
+Test repo for learning HTML.
